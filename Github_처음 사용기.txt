@@ -1,0 +1,2 @@
+1. github id 생성하기
+   https://github.com 접속하여, Sign up for GitHub에 Email Address 
